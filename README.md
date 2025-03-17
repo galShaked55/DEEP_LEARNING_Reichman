@@ -1,0 +1,1 @@
+Repository containing projects and assignments from my M.Sc.-level Deep Learning and Image Understanding course. Includes implementations of neural network architectures, convolutional networks, object detection algorithms, etc.
